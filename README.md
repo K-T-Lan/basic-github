@@ -1,6 +1,14 @@
-# GitHub basic
+# GitHub Basic
+
 ## Mục tiêu
-Học GitHUb từ con số 0
-## Người thực hiện
-- Kim Thị Lan
-- NGày bắt đầu: 08/01/2026
+Làm quen với GitHub trong 4 ngày.
+
+## Nội dung học
+- Tạo repository
+- Viết README
+- Commit trên GitHub web
+
+## Thông tin cá nhân
+- Tên: Kim Thi Lan
+- Ngày bắt đầu: 08/01/2026
+
