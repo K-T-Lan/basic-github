@@ -11,3 +11,6 @@
 - fix: sửa lỗi
 - feat: thêm chức năng
 - chore: việc lặt vặt
+## Notes:
+- Commint càng nhiều - càng nhỏ- càng tốt
+- Sửa từng nhóm một thì commint từng nhóm một, không commint một lần duy nhất sau khi đóng file
