@@ -27,3 +27,8 @@ main
 git push origin --delete ten_branch
 ## Sửa commit gần nhất
 git commit --amend
+
+## Cần nhớ
+Mỗi task -> 1 branch -> 1 PR
+Main luôn pull trước khi tạo branch mới
+Cách sửa conflict 
