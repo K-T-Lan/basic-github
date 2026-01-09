@@ -16,3 +16,9 @@ main
 -> git switch main -> git pull -> git switch day5 -> git merge main
 
 ##CONFLICT: 2 nhánh sửa cùng một dòng code -> Git bắt bạn chọn
+-> mk sửa dòng 2 ở main và nhánh day5
+-> full request -> báo lỗi conflict -> relsove conflict -> sửa -> xóa dòng
+<<<<<
+=====
+>>>>>
+-> mark resolve -> confirm merge
