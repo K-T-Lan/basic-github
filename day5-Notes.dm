@@ -22,3 +22,8 @@ main
 =====
 >>>>>
 -> mark resolve -> confirm merge
+
+## Cách xóa branch trên VS Code
+git push origin --delete ten_branch
+## Sửa commit gần nhất
+git commit --amend
