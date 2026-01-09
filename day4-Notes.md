@@ -9,3 +9,7 @@
 -> git add .
 -> git commit -m"add..."
 -> git push origin main (đẩu code lên github)
+## Quá trình đẩy code vào GitHub: luồng chuẩn
+- VS Code (trên máy) -> git ad . -> git commit -m".." ->  push branch -> GitHub tạo Full Request -> Merge vào nhánh main
+- Tạo nhánh: git switch -c "namebranch" or checkout -b
+- Base: kho và compare: hàng gửi vào kho
