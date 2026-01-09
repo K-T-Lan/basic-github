@@ -1,5 +1,6 @@
 ## WorkFlow (luồng làm việc)
 Đầu tiên, main ổn định 
+main
 -> git full 
 -> git switch -c feature/day5 / git switch nhánh sẵn có/ thực hiện bằng giao diện 
 -> code -> git add . -> git commit -m".." -> git push origin name_branch
